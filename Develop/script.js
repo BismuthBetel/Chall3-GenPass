@@ -34,6 +34,8 @@ var promptCriteria = function () {
     return null;
   }
 
+  // password
+
   var passwordCriteriaObj = {
     length: characterLength,
     upperCaseOpt: hasUpperCharacters,
